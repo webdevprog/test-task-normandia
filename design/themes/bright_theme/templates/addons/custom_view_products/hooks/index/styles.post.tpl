@@ -1,0 +1,1 @@
+{style src="addons/custom_view_products/styles.less"}

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>custom_view_products</id>
+    <name>Кастомизация шаблона Grid list</name>
+    <description>Модуль изменяет внеший вид блокав товара</description>
+
+    <default_language>ru</default_language>
+    
+</addon>
